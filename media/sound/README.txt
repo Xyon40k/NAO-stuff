@@ -1,0 +1,1 @@
+These files need to be placed inside the filesystem of your NAO robot. For usage with our programs, move them to `/home/nao/music`.
